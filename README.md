@@ -22,7 +22,7 @@ homepage = "https://stadsarkiv.aarhus.dk/"
 
 #### mypy.ini
 In `mypy.ini`, the per module options should be changed to reflect your module name:
-```
+```ini
 # Per module options
 [mypy-YOUR_MODULE_NAME.*]
 disallow_untyped_defs = True
