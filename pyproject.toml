@@ -2,11 +2,11 @@
 name = "YOUR_MODULE_NAME"
 version = "0.1.0"
 description = ""
-authors = ["YOUR NAME <YOUR@EMAIL>", 
-    "Aarhus Stadsarkiv <stadsarkiv@aarhus.dk>"]
+authors = ["YOUR NAME <YOUR@EMAIL>"]
+maintainers = ["Aarhus Stadsarkiv <stadsarkiv@aarhus.dk>"]
 license = "GPL-3.0"
 readme = "README.md"
-homepage = "https://stadsarkiv.aarhus.dk/"
+homepage = "https://www.aarhusstadsarkiv.dk/"
 
 [tool.poetry.dependencies]
 python = "^3.8"
