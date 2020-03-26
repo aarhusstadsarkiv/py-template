@@ -1,4 +1,4 @@
-[![Aarhus Stadsarkiv](https://raw.githubusercontent.com/aarhusstadsarkiv/py-template/master/img/logo.png)](https://stadsarkiv.aarhus.dk/)
+[![Aarhus Stadsarkiv](https://raw.githubusercontent.com/aarhusstadsarkiv/py-template/master/img/logo.png)](https://www.aarhusstadsarkiv.dk/)
 # py-template
 Template repository for Python projects at Aarhus Stadsarkiv.
 
@@ -12,11 +12,11 @@ In `pyproject.toml`, `name` and `authors` should be changed:
 name = "YOUR_MODULE_NAME"
 version = "0.1.0"
 description = ""
-authors = ["YOUR NAME <YOUR@EMAIL>", 
-    "Aarhus Stadsarkiv <stadsarkiv@aarhus.dk>"]
+authors = ["YOUR NAME <YOUR@EMAIL>"]
+maintainers = ["Aarhus Stadsarkiv <stadsarkiv@aarhus.dk>"]
 license = "GPL-3.0"
 readme = "README.md"
-homepage = "https://stadsarkiv.aarhus.dk/"
+homepage = "https://www.aarhusstadsarkiv.dk/"
 ```
 `name` refers to your module name. Remember to use underscores instead of dashes when naming your module!
 
